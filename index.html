@@ -10,7 +10,7 @@
    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-
+ 
 <div id="page" class="">
   <!-- overlay for mobile sidebar -->
   <div id="mobileOverlay" class="overlay" style="display:none" onclick="toggleMobileSidebar(false)"></div>
@@ -46,7 +46,20 @@
         <div style="margin-top:14px; display:flex; gap:8px; align-items:center">
           <div style="flex:1" class="muted small">v1.0 • Dashboard</div>
           <button class="icon-btn" title="Toggle theme" onclick="toggleTheme()">🌓</button>
+
         </div>
+       <!-- Profile inside sidebar -->
+              <div class="profile-sidebar" role="button" onclick="alert('Open profile (demo)')">
+                <div class="avatar">TA</div>
+                 <div style="text-align:right">
+                  <div style="font-weight:700; font-size:14px">Team A.</div>
+                    <div class="small muted">Student</div>
+                   </div>
+                    </div>
+
+
+
+
       </div>
     </aside>
 
@@ -229,7 +242,7 @@
                 <div>
                   <div style="font-weight:700">Scored 86% on Quiz 1 (React)</div>
                   <div class="muted small">Yesterday • Quiz</div>
-                </div>
+                </div>  
               </div>
 
               <div class="act-item">
