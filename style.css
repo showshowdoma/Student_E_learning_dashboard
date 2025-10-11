@@ -408,3 +408,27 @@ button, .icon-btn {
   align-items: center;
   justify-content: center;
 }
+/* Shrink search bar on large desktop screens */
+@media (min-width: 981px) {
+  .search {
+    padding: 6px 10px; /* less vertical space = shorter height */
+    gap: 6px;
+  }
+
+  .search input {
+    font-size: 14px;
+    padding: 4px 0; /* optional: remove excess space */
+  }
+
+  .search svg {
+    width: 16px;
+    height: 16px;
+  }
+
+  .search button.icon-btn {
+    padding: 4px;
+    font-size: 16px;
+  }
+}
+
+
