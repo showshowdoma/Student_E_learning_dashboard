@@ -1,28 +1,33 @@
+Here’s your updated version reworded to fit a **Student E-Learning Dashboard** while keeping your original style and emojis intact 👇
 
-🧠 E-Learning Dashboard
+---
 
-The **E-Learning Dashboard** is a responsive web-based application that improves online learning by helping students track courses, assignments, and progress in one place.
-Built with **HTML**, **CSS**, and **JavaScript**, it demonstrates clean UI design, interactivity, and live deployment using **GitHub** and **Vercel**.
+🧠 **Student E-Learning Dashboard**
 
-🔹 Key Features
+The **Student E-Learning Dashboard** is a responsive web-based application that enhances online learning by allowing students to easily track their courses, assignments, and academic progress in one place.
+Built with **HTML**, **CSS**, and **JavaScript**, it showcases clean UI design, interactivity, and live deployment using **GitHub** and **Vercel**.
 
-* Responsive and user-friendly design
+🔹 **Key Features**
+
+* Responsive and student-friendly interface
 * Dark/light theme modes
-* Progress and course visualization
-* Upcoming deadlines tracker
-* Recommended courses and activity log
-* Hosted live on Vercel
+* Course progress and performance visualization
+* Upcoming deadlines and task tracker
+* Recommended courses and recent activities
+* Hosted live on **Vercel**
 
-🔧 Technologies
+🔧 **Technologies**
 
 HTML5 · CSS3 · JavaScript · Google Fonts · Flexbox · CSS Grid · GitHub · Vercel
 
-🚀 Future Plans
+🚀 **Future Plans**
 
-Add Firebase integration, authentication, and instructor dashboard for full LMS functionality.
+Add Firebase integration, user authentication, and expanded instructor tools for a complete Learning Management System (LMS) experience.
 
-📍 Live Demo
+📍 **Live Demo**
 
-👉 [Visit Live Site](https://e-learning-dashboard-omega.vercel.app/
+👉 [Visit Live Site](https://student-e-learning-dashboard.vercel.app/)
 
+---
 
+Would you like me to also make a **shorter version** (for GitHub description or README summary section)?
