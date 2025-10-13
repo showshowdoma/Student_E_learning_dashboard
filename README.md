@@ -23,7 +23,3 @@ Add Firebase integration, user authentication, and expanded instructor tools for
 📍 **Live Demo**
 
 👉 [Visit Live Site](https://student-e-learning-dashboard.vercel.app/)
-
----
-
-Would you like me to also make a **shorter version** (for GitHub description or README summary section)?
