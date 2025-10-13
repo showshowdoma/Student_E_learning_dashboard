@@ -1,7 +1,3 @@
-Here’s your updated version reworded to fit a **Student E-Learning Dashboard** while keeping your original style and emojis intact 👇
-
----
-
 🧠 **Student E-Learning Dashboard**
 
 The **Student E-Learning Dashboard** is a responsive web-based application that enhances online learning by allowing students to easily track their courses, assignments, and academic progress in one place.
